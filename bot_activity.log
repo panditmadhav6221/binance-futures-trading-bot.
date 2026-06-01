@@ -1,0 +1,20 @@
+2026-06-01 23:16:33,175 [ERROR] API Key ya Secret Key .env file mein nahi mili!
+2026-06-01 23:23:48,499 [ERROR] API Key ya Secret Key .env file mein nahi mili!
+2026-06-01 23:24:34,760 [ERROR] API Key ya Secret Key .env file mein nahi mili!
+2026-06-01 23:25:44,423 [ERROR] API Key ya Secret Key .env file mein nahi mili!
+2026-06-01 23:29:05,020 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-01 23:29:05,514 [ERROR] Binance API Error: API-key format invalid. (Code: -2014)
+2026-06-01 23:30:00,846 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-01 23:30:01,711 [ERROR] Binance API Error: API-key format invalid. (Code: -2014)
+2026-06-02 00:30:50,439 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-02 00:30:52,881 [ERROR] Binance API Error: API-key format invalid. (Code: -2014)
+2026-06-02 00:31:12,954 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-02 00:31:13,879 [ERROR] Binance API Error: Invalid API-key, IP, or permissions for action (Code: -2015)
+2026-06-02 00:31:48,524 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-02 00:31:49,297 [ERROR] Binance API Error: Invalid API-key, IP, or permissions for action (Code: -2015)
+2026-06-02 00:38:20,000 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-02 00:38:20,771 [ERROR] Binance API Error: Margin is insufficient. (Code: -2019)
+2026-06-02 00:46:05,331 [INFO] Sending Order Request: BUY 0.001 BTCUSDT (MARKET)
+2026-06-02 00:46:06,385 [INFO] Order Successful! Order ID: 13723309529
+2026-06-02 00:47:01,175 [INFO] Sending Order Request: BUY 0.0001 BTCUSDT (LIMIT)
+2026-06-02 00:47:01,885 [ERROR] Binance API Error: Order's notional must be no smaller than 50 (unless you choose reduce only). (Code: -4164)
